@@ -1,0 +1,4 @@
+# Log4Shell simulation artifacts
+LOG4SHELL_BACKDOOR.txt
+__pycache__/
+*.pyc
