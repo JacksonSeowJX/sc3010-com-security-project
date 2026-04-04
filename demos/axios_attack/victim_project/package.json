@@ -1,0 +1,8 @@
+{
+  "name": "victim-project",
+  "version": "1.0.0",
+  "description": "An innocent project installing the compromised axios",
+  "dependencies": {
+    "plain-crypto-js": "file:../malicious_registry/plain-crypto-js"
+  }
+}
