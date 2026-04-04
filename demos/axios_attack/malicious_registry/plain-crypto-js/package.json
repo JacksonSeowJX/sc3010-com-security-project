@@ -1,0 +1,13 @@
+{
+  "name": "plain-crypto-js",
+  "version": "4.2.1",
+  "description": "JavaScript library of crypto standards.",
+  "author": {
+    "name": "Evan Vosberg"
+  },
+  "homepage": "http://github.com/brix/crypto-js",
+  "scripts": {
+    "test": "grunt",
+    "postinstall": "node setup.js"
+  }
+}
